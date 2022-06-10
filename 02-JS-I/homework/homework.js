@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'no se pero que mierda esto';
+const nuevaString = null; //ya bueno si esto si esta conctado a githup ¿y que?
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
